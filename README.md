@@ -71,5 +71,5 @@ docker exec -i mysql-container mysql -uroot -projetodocker < api/db/script.sql
 ```
 
 ### Como ver:
-Abra o navegador e digite: localhost:8888
+Abra o navegador e digite: `localhost:8888`
 
