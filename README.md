@@ -27,7 +27,7 @@ Referencia:
 https://www.youtube.com/watch?v=Kzcz-EVKBEQ
 
 ## Imagem do MySQL criado utilizando o Docker
-![imagem]<img src="https://user-images.githubusercontent.com/85804680/190931580-fcba1d01-23bb-4747-a5b2-0e479c3d6207.jpeg" width="400" height="790">
+<img src="https://user-images.githubusercontent.com/85804680/190931580-fcba1d01-23bb-4747-a5b2-0e479c3d6207.jpeg" alt="imagem">
 
 ## Container do MySQL criado utilizando o Docker
-![container]<img src="https://user-images.githubusercontent.com/85804680/190931597-920441bc-491f-4a38-8d49-432230e646c3.jpeg" width="400" height="790">
+<img src="https://user-images.githubusercontent.com/85804680/190931597-920441bc-491f-4a38-8d49-432230e646c3.jpeg" alt="container">
